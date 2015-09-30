@@ -1,0 +1,31 @@
+/*
+	General
+ */
+
+/*
+	Components
+ */
+
+.textbox {
+	border-radius: 3px;
+	border: 2px solid #D8D8D8;
+	overflow: auto;
+	background-color: #FCFAF7;
+}
+
+.main-btn	{
+	background-color: #3CC76A;
+	color: #FCFAF7;
+	border: none;
+	border-radius: 2px;
+	box-shadow: 1px 1px 1px #319552;
+	padding: 15px 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	transition: all 0.1s;
+}
+
+.main-btn:hover {
+	box-shadow: none;
+	transition: all 0.1s;
+}
