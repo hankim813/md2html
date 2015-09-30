@@ -20,5 +20,9 @@
     "koa-static": "^1.4.9",
     "marked": "^0.3.5",
     "nodemon": "^1.7.1"
+  },
+  "engines": {
+    "node": "^0.12.x",
+    "npm": "^2.1.x"
   }
 }
