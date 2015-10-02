@@ -2,6 +2,10 @@
 	General
  */
 
+.hidden {
+	visibility: hidden;
+}
+
 /*
 	Components
  */
